@@ -1,3 +1,4 @@
 # gba_demo_site
-Demo site of a Game Boy Advance game inspired by the anime Demon Slayer.
-There are three mini-games the player has to complete to win the game.
+Demo site of a Game Boy Advance game inspired by the anime Demon Slayer. There are three mini-games the player has to complete to win the game.
+Coded in C. 
+Used Usenti, Audacity, Tiled, and VSCode.
